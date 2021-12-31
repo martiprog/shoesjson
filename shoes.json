@@ -1,0 +1,12 @@
+{
+"models":[
+    {"picture":"trainers1.jpg","code":"AC1000","marka":"Маратонки-Blue Wave","description":"Леки и удобни. Подходящи за всики сезон.","price":"47.00","gender": "m","model": "tr"},
+    {"picture":"trainers2.jpg","code":"AC1000","marka":"Маратонки-Red Wave","description":"Красив червен велур, за да бъдеш звезда.","price":"48.00","gender": "f","model": "tr"},
+    {"picture":"trainers3.jpg","code":"AC1000","marka":"Маратонки-Green Wave","description":"Красив зелен велур. Подходящи за всики сезон.","price":"46.00","gender": "f","model": "tr"},
+    {"picture":"trainers4.jpg","code":"AC1000","marka":"Маратонки-Yellow Wave","description":"Естествен жълт велур. Подходящи за всики сезон.","price":"100.00","gender": "c","model": "tr"},
+    {"picture":"trainers5.jpg","code":"AC1000","marka":"Маратонки-Brown Wave","description":"Естествен кафяв велур. Подходящи за всики сезон.","price":"103.00","gender": "m","model": "tr"},
+    {"picture":"trainers5.jpg","code":"AC1000","marka":"Маратонки-Black Wave","description":"Стилен черен велур. Подходящи за всики сезон.","price":"50.00","gender": "m","model": "tr"}
+]
+
+
+}
